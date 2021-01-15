@@ -19,5 +19,5 @@ describe 'Dog' do
       lassie.instance_variable_set("@this_dogs_name","Lassie")
 
       expect(lassie.name).to eq("Lassie")
-    end
+    
   
