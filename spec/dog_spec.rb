@@ -20,4 +20,4 @@ describe 'Dog' do
 
       expect(lassie.name).to eq("Lassie")
     end
-  end
+  
